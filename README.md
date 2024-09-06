@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vireak
-- 👀 I’m interested in Program 
-- 🌱 I’m currently learning Flutter & Dart
-
+- 👀 I’m interesting to become web developer.
+- 🌱 I’m currently learn and do small project HTML, CSS, JavaScript, learning Flutter & Dart
 
 
 
